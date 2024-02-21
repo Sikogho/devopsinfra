@@ -5,10 +5,10 @@ Testing teh webhook.....
 
 ## CICD Infra setup
 1) ###### GitHub setup
-    Fork GitHub Repository by using the existing repo "devops-fully-automated-infra" (https://github.com/cvamsikrishna11/devops-fully-automated-infra)     
+    Fork GitHub Repository by using the existing repo "devops-fully-automated-infra" (https://github.com/Sikogho/devopsinfra.git))     
     - Go to GitHub (github.com)
     - Login to your GitHub Account
-    - **Fork repository "devops-fully-automated-infra" (https://github.com/cvamsikrishna11/devops-fully-automated-infra.git) & name it "devops-fully-automated-infra"**
+    - **Fork repository "devops-fully-automated-infra" ((https://github.com/Sikogho/devopsinfra.git) & name it "devops-fully-automated-infra"**
     - Clone your newly created repo to your local
 
 2) ###### Jenkins
@@ -118,4 +118,3 @@ Once both the above steps are done click on Save.
         `git push`
 
 2) #### Terminate Jenkins EC2 instance
-
